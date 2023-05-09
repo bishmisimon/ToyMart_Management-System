@@ -1,0 +1,10 @@
+1111	zzzz	null	ddd	1111		1111
+1111	gg	null	gg	1111		1111
+12345	Bishmi	poor	2-3	12345		12345
+126	hj	zu	5-6	126		126
+1234	Toycar	Big	6-8	1234		1234
+7005	Teddy	caty	g	7005		7005
+111	d	d	d	111		111
+111	tz	null	null	111		111
+111	tz	category	null	111		111
+4000	Doll-Japan	Other Toy	6-9	11		   Afghanistan

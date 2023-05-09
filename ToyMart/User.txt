@@ -1,0 +1,4 @@
+CashierH	abc
+ManagerH	M123@
+Abc	123@
+ManagerH	123
